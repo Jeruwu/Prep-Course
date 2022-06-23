@@ -109,6 +109,7 @@ function esDiezOCinco(numero) {
     default:
       return false
       break;
+      // return (numero===10 || numero===5)
   }
 }
 
