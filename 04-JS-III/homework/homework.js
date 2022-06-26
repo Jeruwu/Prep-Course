@@ -294,4 +294,4 @@ function todosIguales(arreglo) {
     mayorACien,
     breakStatement,
     continueStatement
-  }
+  };
